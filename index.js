@@ -3,10 +3,7 @@ const express = require('express');
 const app = express();
 
 app.use( ()=>{
-    console.log('Hello serverrr')
-    console.log('Hello serverrr')
-    console.log('Hello serverrr')
-    console.log('Hello serasdaverrr')
+    console.log('server')
 })
 
 app.listen(4000);
