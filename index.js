@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 //Connect MongoDB
 const mongoose = require('mongoose');
-const uri = xxx";
+const uri = "xxx";
 // handle form-data
 const multer = require('multer'); 
 // handle req image
